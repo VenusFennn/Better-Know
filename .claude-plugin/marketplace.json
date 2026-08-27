@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.schema.json",
+  "name": "better-know",
+  "owner": {
+    "name": "VenusFennn"
+  },
+  "plugins": [
+    {
+      "name": "better-know",
+      "source": "./plugins/better-know",
+      "description": "前端、后端与全栈解决方案设计技能集合。",
+      "author": {
+        "name": "VenusFennn",
+        "url": "https://github.com/VenusFennn"
+      },
+      "homepage": "https://github.com/VenusFennn/Better-Know",
+      "repository": "https://github.com/VenusFennn/Better-Know",
+      "license": "MIT",
+      "keywords": [
+        "solution-design",
+        "frontend",
+        "backend",
+        "fullstack",
+        "architecture",
+        "testing"
+      ],
+      "category": "Development"
+    }
+  ]
+}

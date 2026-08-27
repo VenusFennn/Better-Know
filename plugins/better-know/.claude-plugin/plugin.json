@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "better-know",
+  "displayName": "Better Know · Solution Design",
+  "version": "1.0.0",
+  "description": "为前端、后端和跨端软件变更提供只读、完整、可实施且可验证的解决方案设计能力。",
+  "author": {
+    "name": "VenusFennn",
+    "url": "https://github.com/VenusFennn"
+  },
+  "homepage": "https://github.com/VenusFennn/Better-Know",
+  "repository": "https://github.com/VenusFennn/Better-Know",
+  "license": "MIT",
+  "keywords": [
+    "solution-design",
+    "frontend",
+    "backend",
+    "fullstack",
+    "architecture",
+    "testing"
+  ],
+  "skills": "./skills/"
+}

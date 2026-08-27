@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "plugin": {
+    "name": "better-know",
+    "version": "1.0.0"
+  },
+  "skills": {
+    "frontend-solution-design": {
+      "sourceRepository": "https://github.com/VenusFennn/Frontend-Solution-Design",
+      "baseCommit": "e384e2f72a6b50cc31b0fae669ac8bb354fd6d35",
+      "baseVersion": "1.0.0",
+      "bundledVersion": "1.1.0",
+      "methodologySha256": "706b81ca3e2b695af6ecab9675fd8a127ba8e4f5002b36f7f2b4eb254120c462",
+      "sha256SumsSha256": "b7ddbdb866af21daa463e9769d0c3e77fc70854cf926d22faf806eb05730620b",
+      "packagingChanges": [
+        "增加跨前后端职责、契约和冲突收敛规则",
+        "增加跨端评测覆盖",
+        "移除 SHA256SUMS 中不存在的安装说明.md 条目",
+        "按插件内实际内容重新生成全部哈希"
+      ]
+    },
+    "backend-solution-design": {
+      "sourceRepository": "https://github.com/VenusFennn/Backend-Solution-Design",
+      "baseCommit": "c1d459d0405b7a7774ef52c2b1fa611da4ad92c1",
+      "baseVersion": "1.0.0",
+      "bundledVersion": "1.1.0",
+      "methodologySha256": "4e4cef820f030f023eee7aee8a0abfc7a05bd4a49e69bcb8ae3ad28d788ecba4",
+      "sha256SumsSha256": "21edcb67987e170aa394a994f51051d82e9a26e6e4c1a83adbac4fadf97c8f5b",
+      "packagingChanges": [
+        "增加跨前后端职责、契约和冲突收敛规则",
+        "增加跨端评测覆盖",
+        "按插件内实际内容重新生成全部哈希"
+      ]
+    },
+    "fullstack-solution-design": {
+      "source": "better-know",
+      "bundledVersion": "1.0.0",
+      "methodologySha256": "59e7c92a0ef8634beed726bd1c1c0bd84c3c87e6d5e7fc7c7f17171596f004de",
+      "sha256SumsSha256": "f05477de33acca22735adf5fdbed3bdd62f96eb4dc490f0a94f1d6f418757169"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "better-know",
+  "interface": {
+    "displayName": "Better Know"
+  },
+  "plugins": [
+    {
+      "name": "better-know",
+      "source": {
+        "source": "local",
+        "path": "./plugins/better-know"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

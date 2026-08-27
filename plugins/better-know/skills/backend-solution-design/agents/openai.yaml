@@ -1,0 +1,4 @@
+interface:
+  display_name: "后端解决方案设计"
+  short_description: "只读分析后端变更并输出完整、正确、可实施且可验证的解决方案"
+  default_prompt: "使用 $backend-solution-design 只读分析此项后端变更，并仅输出完整解决方案。"

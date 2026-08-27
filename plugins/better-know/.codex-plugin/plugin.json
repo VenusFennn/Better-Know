@@ -1,0 +1,38 @@
+{
+  "name": "better-know",
+  "version": "1.0.0",
+  "description": "为前端、后端和跨端软件变更提供只读、完整、可实施且可验证的解决方案设计能力。",
+  "author": {
+    "name": "VenusFennn",
+    "url": "https://github.com/VenusFennn"
+  },
+  "homepage": "https://github.com/VenusFennn/Better-Know",
+  "repository": "https://github.com/VenusFennn/Better-Know",
+  "license": "MIT",
+  "keywords": [
+    "solution-design",
+    "frontend",
+    "backend",
+    "fullstack",
+    "architecture",
+    "testing"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Better Know · Solution Design",
+    "shortDescription": "前端、后端与全栈解决方案设计技能集合",
+    "longDescription": "通过五步框架、双向影响分析、领域契约、SSOT、故障反证和测试映射，为前端、后端及跨端变更输出统一、可实施、可验证且风险清晰的解决方案。",
+    "developerName": "VenusFennn",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://github.com/VenusFennn/Better-Know",
+    "defaultPrompt": [
+      "分析这个前端问题，只输出完整解决方案，不修改代码。",
+      "分析这个后端问题，只输出完整解决方案，不执行变更。",
+      "分析这个跨前后端需求，输出统一方案、发布顺序和联合验证。"
+    ],
+    "brandColor": "#2563EB"
+  }
+}
