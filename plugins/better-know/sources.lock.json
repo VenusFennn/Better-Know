@@ -1,42 +1,40 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "plugin": {
     "name": "better-know",
-    "version": "1.1.0"
+    "version": "1.2.0"
+  },
+  "readabilitySpec": {
+    "version": "1.0.0",
+    "sha256": "65ecd6e2a53e8f1ee68c82d6cf34dee902d63e0a9219b274145cc797ff292d4a"
   },
   "skills": {
     "frontend-solution-design": {
       "sourceRepository": "https://github.com/VenusFennn/Frontend-Solution-Design",
-      "baseCommit": "e384e2f72a6b50cc31b0fae669ac8bb354fd6d35",
-      "baseVersion": "1.0.0",
-      "bundledVersion": "1.2.0",
-      "methodologySha256": "bcdd386a2858e6792843b09923d2612c327559872a13e86218e7de0ba928805e",
-      "sha256SumsSha256": "fcecf848bdbc94754fef19c801f367ace3478d847af5b7d02d6645d319c82690",
-      "packagingChanges": [
-        "增加跨前后端职责、契约和冲突收敛规则",
-        "增加跨端评测覆盖",
-        "移除 SHA256SUMS 中不存在的安装说明.md 条目",
-        "按插件内实际内容重新生成全部哈希"
-      ]
+      "baseCommit": "dd833909b8d388c15f3043ff1f472b5913482db6",
+      "baseVersion": "1.3.0",
+      "bundledVersion": "1.3.0",
+      "methodologySha256": "74d68ee6ae080d00596d80eebcc455dd846be75c16ddc1b532c1432ebd65b43e",
+      "readabilitySpecSha256": "65ecd6e2a53e8f1ee68c82d6cf34dee902d63e0a9219b274145cc797ff292d4a",
+      "sha256SumsSha256": "604d33b3de043ab9c538f843ba6844966103bee715589f34ab3541ad0e0259a6",
+      "packagingChanges": []
     },
     "backend-solution-design": {
       "sourceRepository": "https://github.com/VenusFennn/Backend-Solution-Design",
-      "baseCommit": "c1d459d0405b7a7774ef52c2b1fa611da4ad92c1",
-      "baseVersion": "1.0.0",
-      "bundledVersion": "1.2.0",
-      "methodologySha256": "4b786881c1f5651b0e467f3941bc7a877f018f321b91c10cc5b248472eb3da2e",
-      "sha256SumsSha256": "92d8e911364d33d69abf46e13c21d38cacf9edd820691bc10ae989059f6fec0e",
-      "packagingChanges": [
-        "增加跨前后端职责、契约和冲突收敛规则",
-        "增加跨端评测覆盖",
-        "按插件内实际内容重新生成全部哈希"
-      ]
+      "baseCommit": "9525cdf4c45e773779676991112c1ead5352f456",
+      "baseVersion": "1.3.0",
+      "bundledVersion": "1.3.0",
+      "methodologySha256": "c0b354333dd3444e5258e6242a44aa079fb501af30a09aab2c59b4556c6b2f75",
+      "readabilitySpecSha256": "65ecd6e2a53e8f1ee68c82d6cf34dee902d63e0a9219b274145cc797ff292d4a",
+      "sha256SumsSha256": "2139b941927d3ac80bd36dd6d9e0cd20184ec71c469e373695fd9948e8c274be",
+      "packagingChanges": []
     },
     "fullstack-solution-design": {
       "source": "better-know",
-      "bundledVersion": "1.1.0",
-      "methodologySha256": "6264619a674b8d96f40357162edf6df1dd66f5ad994fa55f627ff7d965a1c32a",
-      "sha256SumsSha256": "2bde56480124d1089a190caaefba197c726f478be848812440465f6a47fc3b64"
+      "bundledVersion": "1.2.0",
+      "methodologySha256": "ab9686412b30f9ef81181f168238b3b4f66a3b1072af7feb8fb577eac02a28cf",
+      "readabilitySpecSha256": "65ecd6e2a53e8f1ee68c82d6cf34dee902d63e0a9219b274145cc797ff292d4a",
+      "sha256SumsSha256": "f5208c473c47b864af993d500389033b8a7452536cc5b00850767b6834757a4e"
     }
   }
 }
